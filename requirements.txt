@@ -1,0 +1,17 @@
+Django>=5.1
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+django-allauth
+django-cors-headers
+django-environ
+psycopg2-binary
+channels
+daphne
+gunicorn
+pillow
+whitenoise
+celery
+redis
+drf-yasg
+django-filter
