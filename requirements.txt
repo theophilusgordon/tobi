@@ -2,8 +2,8 @@ Django>=5.1
 djangorestframework
 djangorestframework-simplejwt
 dj-rest-auth
-django-allauth
 django-cors-headers
+django-allauth
 django-environ
 psycopg2-binary
 channels
@@ -15,3 +15,4 @@ celery
 redis
 drf-yasg
 django-filter
+requests
